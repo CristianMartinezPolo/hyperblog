@@ -39,3 +39,10 @@ body
 {
     padding: 1em;
 }
+
+p > img{
+    width: 100%;
+    background: gray;
+    display: flex;
+    justify-content: center;
+}
